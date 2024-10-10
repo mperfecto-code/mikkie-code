@@ -78,4 +78,4 @@ const deleteDepartment = async (req, res) => {
     }
 };
 
-module.exports = { getAllDepartments, getDepartmentById, createDepartment, updateDepartment, deleteDepartment };t
+module.exports = { getAllDepartments, getDepartmentById, createDepartment, updateDepartment, deleteDepartment };
